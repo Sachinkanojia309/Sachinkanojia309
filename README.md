@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sachinkanojia309
 - 👀 I’m interested in coding,technical things,software.
-- 🌱 I’m currently learning computer science (b-tech),3rd year.
+- 🌱 I’m currently learning new technologies.
 
 <!---
 Sachinkanojia309/Sachinkanojia309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
